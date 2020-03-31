@@ -1,0 +1,108 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif ;
+  background: #151515;
+  color: #bfbfbf;
+}
+
+
+h1 {
+color: #66BFBF;
+font-size: 20px;
+font-family: 'Montserrat', sans-serif ;
+}
+
+
+
+h3 {
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+padding-bottom: 5px;
+}
+
+
+hr {
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 10px auto;
+}
+
+/************ Header ******************/
+
+.header {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding-left: 150px;
+  line-height: 2;
+  text-align: center;
+}
+
+.email {
+color: #11999E;
+text-align: center;
+font-family: cursive;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+.thai-img {
+  width: 100%;
+  height: auto;
+  opacity: 0.3;
+  position: absolute;
+  top: -15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.profile-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  border-radius: 50%;
+  
+}
+
+
+/*************** Section 2 *******************/
+.Education {
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.year {
+  float: left;
+  margin-right: 30px;
+  padding-left: 50px;
+}
+
+.describe {
+  width:600px;
+  margin: 0 auto;
+  padding-left: 350px;
+}
+
+.skills {
+  padding-left: 555px;
+}
+
+/******* footer *************/
+#footer {
+  text-align: center;
+  padding: 2% 15%;
+}
+
+.icon {
+  margin: 10px 10px;
+  color: white;
+}
+
+.icon:hover {
+  color: #11999E;
+}
